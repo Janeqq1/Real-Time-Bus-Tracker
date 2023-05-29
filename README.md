@@ -5,9 +5,9 @@ To run this, just download all the files from the repository and load the index.
 
 ## Future Improvement
 Many improvements can be done. A few top priorites would be:
-- [] Add route search functionality
-- [] Add Bus/Route alert functionality
-- [] Add search based on position click. A click on the map would show all bus around that position.
----
+-  Add route search functionality
+-  Add Bus/Route alert functionality
+-  Add search based on position click. A click on the map would show all bus around that position.
+##
 
 ## [Link to run the application](https://janeqq1.github.io/Real-Time-Bus-Tracker/)
