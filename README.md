@@ -10,6 +10,5 @@ Many improvements can be done. A few top priorites would be:
 -  Add search based on position click. A click on the map would show all buses around that position.
 ##
 
-## [Link to run the application](https://janeqq1.github.io/Real-Time-Bus-Tracker/)(:target="_blank" rel="noopener")
+## [Link to run the application](https://janeqq1.github.io/Real-Time-Bus-Tracker/)
 
-## <a href="https://janeqq1.github.io/Real-Time-Bus-Tracker/" target="_blank">external link</a>
