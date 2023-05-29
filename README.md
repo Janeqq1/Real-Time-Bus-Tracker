@@ -11,3 +11,5 @@ Many improvements can be done. A few top priorites would be:
 ##
 
 ## [Link to run the application](https://janeqq1.github.io/Real-Time-Bus-Tracker/)
+
+## <a href="https://janeqq1.github.io/Real-Time-Bus-Tracker/" target="_blank">external link</a>
