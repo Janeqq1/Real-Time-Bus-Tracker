@@ -6,7 +6,7 @@ var reCenter = true;
 // load map
 function init(){
 	var myOptions = {
-		zoom      : 20,
+		zoom      : 15,
 		center    : { lat:42.353350,lng:-71.091525},
 		mapTypeId : google.maps.MapTypeId.ROADMAP
 	};
